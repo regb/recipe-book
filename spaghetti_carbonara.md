@@ -1,5 +1,7 @@
 #Spaghetti à la Carbonara
 
+Un bon plat de pâtes avec une sauce Carbonara. Idéal pour le soir.
+
 ##Ingrédients
 
 * 450 g de spaghettis
@@ -12,7 +14,7 @@
 
 ##Marche à suivre
 
-1. Porter Ã  ébulition une grande casserole d'eau légèrement salée, ajouter les pates et porter de nouveau à ébulition. 
+1. Porter Ã  ébulition une grande casserole d'eau légèrement salée, ajouter les pâtes et porter de nouveau à ébulition. 
 
 2. Cuire 8 à 10 minutes, jusqu'à ce qu'elles soient al dente. 
 
@@ -20,7 +22,7 @@
 
 4. Battre les oeufs avec la crème dans une terrine, et saler et poivrer selon son goût.
 
-5. Egoutter les pates, remettre dans la casserole et ajouter le contenu de la sauteuse, le mélange à base d'oeufs et la moitié du parmesan.
+5. Egoutter les pâtes, remettre dans la casserole et ajouter le contenu de la sauteuse, le mélange à base d'oeufs et la moitié du parmesan.
 
 6. Bien remuer, tranférer dans un plat de service chaud et servir immédiatement, garni de parmesan restant.
 
