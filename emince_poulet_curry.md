@@ -1,6 +1,6 @@
 #Emincé de Poulet au Curry
 
-De délicieux morceaux de poulet emincé avec une sauce au curry.
+De délicieux morceaux de poulet avec une sauce au curry.
 
 ##Ingrédients
 
