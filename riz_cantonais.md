@@ -4,7 +4,7 @@ Riz Cantonais
 Un délicieux plat de riz pleins de bonnes choses.
 
 Ingrédients
-===========
+-----------
 
 * Riz parfumé, 3 tasses
 * 2 oeufs
