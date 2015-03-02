@@ -1,8 +1,10 @@
-#Gâteau au chocolat
+Cake au chocolat
+================
 
 Un délicieux cake au chocolat.
 
-##Ingrédients
+Ingrédients
+-----------
 
 * 150 gr de beurre ou de margarine
 * 200 gr de sucre
@@ -15,7 +17,8 @@ Un délicieux cake au chocolat.
 * 300 gr de farine
 * 1 c. à café de poudre à lever
 
-##Marche à suivre
+Marche à suivre
+---------------
 
 1. Travailler le beurre ou la margarine en pommade. 
 2. Incorporer sucre, sucre vanillé et sel puis 1 oeuf après l'autre continuer à remuer jusqu'à ce que le mélange blanchisse. 
