@@ -41,7 +41,7 @@ Marche à suivre
 1. Mélanger le boeuf avec la sauce préparée pour la viande. Laisser la
    viande mariné pendant une trentaine de minutes.
 
-2. Préparer une salade d'épinard à la coréenne.
+2. Préparer une [salade d'épinard coréenne](/salade_epinard_coreenne.md).
 
 3. Rincer les shiitake mushrooms et les couper finement. Les cuire dans un wok
 avec de l'huile végétale pendant 2-3 minutes.
