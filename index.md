@@ -8,6 +8,7 @@ Classique
 * [Boulettes de viandes avec sauce tomates](/cuisse_poulet_tomates.md)
 * [Escalopes de dinde à la crème](/escaplopes_dinde_sauce_creme.md)
 * [Bolognaise maison](/bolognaise.md)
+* [Riz cantonais maison](/riz_cantonais.md)
 
 Asiatique
 ---------
@@ -20,4 +21,10 @@ Patisserie
 
 * [Cake au chocolat](/cake_au_chocolat.md)
 * [Un autre cake au chocolat](/cake_au_chocolat2.md)
+* [Tourte aux carottes](/tourte_aux_carottes.md)
 * [Tresse](/tresse.md)
+
+Boissons
+--------
+
+* [Mango lassi](/mango_lassi.md)
