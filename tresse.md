@@ -11,7 +11,7 @@ Ingrédients
 * 10g de sel
 * 1 c.a.c. de sucre
 * 40g de beurre
-* 20g de levure
+* 20g de levure fraiche
 * 1 oeuf
 
 Marche à suivre
