@@ -18,7 +18,7 @@ Marche à suivre
 1. Faire revenir la viande hachée dans une casserole
 2. Assaisonner la viande avec le sel, poivre et condiment pour viande
 3. Ajouter les tomates concassées dans la casserole
-4. Remuser puis laisser mijoter pendant 45 minutes
+4. Remuer puis laisser mijoter pendant 45 minutes
 
 Remarques
 ---------
