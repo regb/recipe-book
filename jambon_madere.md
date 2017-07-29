@@ -1,8 +1,8 @@
-#Jambon au Madère
+# Jambon au Madère
 
 Un plat de jambons cuits trampés dans une sauce tomates et madère.
 
-##Ingrédients
+## Ingrédients
 
 * 10 tranches de jambon
 * 1 boite de concentré de tomates (140gr)
@@ -11,7 +11,7 @@ Un plat de jambons cuits trampés dans une sauce tomates et madère.
 * 2 gouttes de tabasco
 * poivre
 
-##Marche à suivre
+## Marche à suivre
 
 1. Rouler les tranches de jambon et les disposer dans un plat à gratin.
 
@@ -20,6 +20,6 @@ Un plat de jambons cuits trampés dans une sauce tomates et madère.
 
 3. Cuisson à four chaud 10 à 20 minutes.
 
-##Remarques
+## Remarques
 
 C'est meilleur avec du riz !
