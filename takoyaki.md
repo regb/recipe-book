@@ -9,7 +9,7 @@ Pour environ 30 boules.
 * Huile de colza
 * Machine à takoyaki (plaque à trous)
 
-### Pâte à takoyaki
+#### Pâte à takoyaki
 
 * Farine blanche (140 gr.) (all purpose flour) 
 * Dashi en poudre (1 c.a.c)
@@ -18,13 +18,13 @@ Pour environ 30 boules.
 * Eau (480ml)
 * Oeufs (2)
 
-### Contenu (flexible, selon les goûts)
+#### Contenu (flexible, selon les goûts)
 
 * Poulpe cuit (boiled) (150 gr.)
 * Onions verts (onions en botte)
 * Benishoga (pickled red ginger)
 
-### Toppings (flexible, selon les goûts)
+#### Toppings (flexible, selon les goûts)
 
 * Takoyaki sauce
 * Mayonnaise (Kewpie)
