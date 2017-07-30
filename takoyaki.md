@@ -2,25 +2,64 @@
 
 Simply the best.
 
-##Ingrédients
+## Ingrédients
 
-* Farine mélangé avec "Daishi" (soupe japonaise séchée)
-* Oeux
-* Eau
-* Octopus
-* oil
-* takoyaki sauce, red sweet
+Pour environ 30 boules.
 
-##Marche à suivre
+* Huile de colza
+* Machine à takoyaki (plaque à trous)
 
-1. Couper l'octopus en mini morceau.
-2. Mélanger Farine/Daishi avec les oeux et de l'eau
-3. Passer un chiffon d'huile sur le cooker.
-4. Remplir avec le melange de farine a 80\% des trous
-5. ajouter les morceaux d'octopus in each hole
-6. soupoudrer d-onion vert, de konnyaku et de farine sechee
-7. Recouvrir d'une desieme couche de pate
-8. Quand la pate devient assez solide, tourner les takoyaki
-9. retourner jusqu'a ce qu'ils soient bien arrondi (environ dix minutes)
-10. Les sortir et ajouter mayo, sauce et dry tuna.
-11. Manger!
+### Pâte à takoyaki
+
+* Farine blanche (140 gr.) (all purpose flour) 
+* Dashi en poudre (1 c.a.c)
+* Sauce soja (1 c.a.c)
+* Sel (1/4 c.a.c)
+* Eau (480ml)
+* Oeufs (2)
+
+### Contenu (flexible, selon les goûts)
+
+* Poulpe cuit (boiled) (150 gr.)
+* Onions verts (onions en botte)
+* Benishoga (pickled red ginger)
+
+### Toppings (flexible, selon les goûts)
+
+* Takoyaki sauce
+* Mayonnaise (Kewpie)
+* Aonori (green dried seaweed)
+* Katsuobushi (dried bonito flakes)
+
+## Marche à suivre
+
+1. Préparer la pâte: Battre les oeufs dans un petit bol. Dans un grand bol,
+   ajouter le dashi en poudre, la sauce soja, et le sel, et mélanger. Rajouter
+   l'eau, mélanger, puis incorporer les oeufs. Ajouter la farine à petite dose
+   pour bien mélanger et dissoudre les grumeaux.
+
+2. Couper le poulpe en petit morceau (environ un demi pouce). Couper les onions
+   verts et Benishoga en très petits morceaux.
+
+3. Passer un chiffon d'huile sur la plaque de takoyaki.
+
+4. Remplir avec la pâte à takoyaki les troux de la plaque à environ 80 pourcent
+
+5. Ajouter un morceau de pouple par takoyaki.
+
+6. soupoudrer d'onion vert, de benishoga, et de ???
+
+7. Recouvrir le reste du trou.
+
+8. Quand la pate devient assez solide, tourner les takoyaki.
+
+9. Continuer de retourner jusqu'a ce qu'ils soient bien arrondi (environ dix
+   minutes) et doré.
+
+10. Sortir les takoyaki sur un plat, recouvrir (dans l'ordre) de sauce
+    takoyaki, de mayonnaise, de aonori, et de katsuobushi.
+
+### Remarques
+
+Idéal pour une home party, à préparer avec la machine directement sur la table
+à manger.
