@@ -23,6 +23,7 @@ Pour environ 30 boules.
 * Poulpe cuit (boiled) (150 gr.)
 * Onions verts (onions en botte)
 * Benishoga (pickled red ginger)
+* Tenkasu (tempura scraps)
 
 #### Toppings (flexible, selon les goûts)
 
@@ -47,7 +48,7 @@ Pour environ 30 boules.
 
 5. Ajouter un morceau de pouple par takoyaki.
 
-6. soupoudrer d'onion vert, de benishoga, et de ???
+6. soupoudrer d'onion vert, de benishoga, et de tenkasu.
 
 7. Recouvrir le reste du trou.
 
