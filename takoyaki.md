@@ -6,7 +6,7 @@ Simply the best.
 
 Pour environ 30 boules.
 
-* Huile de colza
+* Huile végétale sans trop de goût (tournesol par exemple) 
 * Machine à takoyaki (plaque à trous)
 
 #### Pâte à takoyaki
@@ -34,7 +34,7 @@ Pour environ 30 boules.
 
 ## Marche à suivre
 
-1. Préparer la pâte: Battre les oeufs dans un petit bol. Dans un grand bol,
+1. Préparer la pâte à takoyaki: Battre les oeufs dans un petit bol. Dans un grand bol,
    ajouter le dashi en poudre, la sauce soja, et le sel, et mélanger. Rajouter
    l'eau, mélanger, puis incorporer les oeufs. Ajouter la farine à petite dose
    pour bien mélanger et dissoudre les grumeaux.
@@ -46,11 +46,11 @@ Pour environ 30 boules.
 
 4. Remplir avec la pâte à takoyaki les troux de la plaque à environ 80 pourcent
 
-5. Ajouter un morceau de pouple par takoyaki.
+5. Ajouter un morceau de pouple par trou.
 
 6. soupoudrer d'onion vert, de benishoga, et de tenkasu.
 
-7. Recouvrir le reste du trou.
+7. Remplir chaque emplacement à 100 pourcent.
 
 8. Quand la pate devient assez solide, tourner les takoyaki.
 
