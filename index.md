@@ -1,6 +1,6 @@
 
-Classique
----------
+Les Classiques
+--------------
 
 * [Jambon au Madère](/jambon_madere.md)
 * [Emincée de poulet au curry](/emince_poulet_curry.md)
@@ -15,6 +15,12 @@ Asiatique
 
 * [Bibimbap](/bibimbap.md)
 * [Takoyaki](/takoyaki.md)
+* [Okonomiyaki](/okonomiyaki.md)
+
+Sauces
+------
+
+* [Guacamole](/guacamole.md)
 
 Patisserie
 ----------
