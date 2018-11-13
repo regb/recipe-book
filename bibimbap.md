@@ -1,16 +1,15 @@
 Bibimbap
 ========
 
-Une spécialité coréenne, un bol de riz mélanger avec de la viandes et
-des légumes assortis, le tout mixer avec une déclicieuse sauce
-piquante.
+Une spécialité coréenne, un bol de riz mélangé avec du boeuf et
+des légumes, le tout mixé avec une déclicieuse sauce piquante.
 
 Ingrédients
 -----------
 
 Pour 4 personnes.
 
-- Viande et sa sauce
+- Viande et marinade
   * 100gr boeuf haché
   * 1 c.a.s. de soy sauce
   * 1 c.a.s. d'huile de sésame
@@ -18,9 +17,10 @@ Pour 4 personnes.
   * 1/4 c.a.c d'ail haché
 
 - Légumes et autres aliments mélangés
-  * 200gr. d'épinard légèrement assaisonné
+  * 200gr. d'épinard
   * 100gr. shiitake mushroom
   * 120gr. carottes
+  * 120gr. concombre
   * 4 oeufs
   * Germes de soja (soybean sprout)
 
@@ -32,13 +32,12 @@ Pour 4 personnes.
   * Graines de sésame
 
 - Bibimbap sauce
-  * 2 Tbsp gochujang
-  * 1 Tbsp sesame oil
-  * 1 Tbsp sugar – I used raw sugar
-  * 1 Tbsp water
-  * 1 Tbsp roasted sesame seeds
-  * 1 tsp vinegar – I used apple vinegar
-  * 1 tsp minced garlic
+  * 2 c.a.s de pate de chilli (gochujang)
+  * 1 c.a.s huile de sésame
+  * 1 c.a.s sucre
+  * 1 c.a.s d'eau
+  * 1 c.a.s de vinaigre de pomme
+  * 1 c.a.s d'ail émincé
 
 Marche à suivre
 ---------------
@@ -53,10 +52,12 @@ Marche à suivre
 4. Commencer à cuire le riz.
 
 5. Rincer les shiitake mushrooms et les couper finement. Les cuire dans une
-   poele avec de l'huile végétale pendant 2-3 minutes.
+   poele avec de l'huile végétale, assaisonée de sel et ail, pendant 2-3
+   minutes.
 
-6. Rincer et peler les carottes. Les cuire dans une poele avec de l'huile
-   végétale et une 1/2 c.a.c de sel pendant 2-3 minutes.
+6. Rincer et couper les carottes en batons très fins. Les cuire dans une poele
+   avec de l'huile végétale, une 1/2 c.a.c de sel, et un peu d'ail, pendant 2-3
+   minutes. Faire pareil avec les concombres.
 
 7. Faire bouillir les germes de soja.
 
