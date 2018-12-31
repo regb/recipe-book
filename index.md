@@ -21,6 +21,7 @@ Sauces
 ------
 
 * [Guacamole](/guacamole.md)
+* [Sauce Mayo](/sauce_mayo.md)
 
 Patisserie
 ----------

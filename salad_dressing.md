@@ -1,4 +1,4 @@
-# Gaucamole
+# Sauce à Salade
 
 Délicieuse sauce à base d'avocat.
 
@@ -16,12 +16,11 @@ Délicieuse sauce à base d'avocat.
 
 ## Marche à suivre
 
-1. Ouvrir les avocats et extraire dans dans un bol. Ecraser et masher, mais
-   pas trop.
+1. Ouvrir les avocats et extraire dans dans un bol. Ecraser et masher en 1 pate uniforme.
 
-2. Ajouter le jus de lime, le sel, et le poivre. Mélanger.
+2. Verser le jus de lime et le sel. Mélanger.
 
-3. Ajouter onions et tomates coupées finement. Mélanger.
+3. Ajouter onions et tomates coupés finement. Mélanger.
 
 ## Remarques
 
