@@ -35,3 +35,7 @@ Boissons
 --------
 
 * [Mango lassi](/mango_lassi.md)
+
+## Cocktails
+
+* [Margarita](/cocktails/margarita.md)
