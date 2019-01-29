@@ -20,7 +20,7 @@ Pour environ 30 boules.
 
 #### Contenu (flexible, selon les goûts)
 
-* Poulpe cuit (boiled) (150 gr.)
+* Poulpe cuit (boiled) (150 gr.) (or shitake mushroom, cooked in a pan first)
 * Onions verts (onions en botte)
 * Benishoga (pickled red ginger)
 * Tenkasu (tempura scraps)
