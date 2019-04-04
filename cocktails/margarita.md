@@ -2,9 +2,12 @@
 
 ## Ingrédients
 
-* 2 ounces (~59ml) tequila (100% blue agave) 
-* 3/4 ounce (~22ml) of cointreau
-* 3/4 ounce (~22ml) fresh squeezed lime juice
+Quantities are rounded slighly up for ml, but with consistent proportion and
+easier to measure.
+
+* 2 ounces (65ml) tequila (100% blue agave) 
+* 3/4 ounce (25ml) of cointreau
+* 3/4 ounce (25ml) fresh squeezed lime juice
 * tiny little bit of agave nectar
 * salt (for the glass rim)
 * large ice cubes (for shaking and serving)
