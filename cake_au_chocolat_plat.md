@@ -10,11 +10,11 @@ Ingrédients
 * 400 gr. de sucre
 * 3 c.à soupe de cacao
 * 1 c. à soupe de cannelle
-* 1 paquet de poudre à lever
+* 15gr de poudre à lever
 * 1 pincée de sel
 * 2 oeufs
-* 1tasse de crème
-* 1 1/2 de lait
+* 1 tasse (2dl) de crème
+* 1 tasse et demi (3dl) de lait
 
 Marche à suivre
 ---------------
