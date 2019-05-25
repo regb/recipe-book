@@ -2,7 +2,7 @@
 
 ## Ingrédients
 
-* 2 ounces (65ml) rye whiskey
+* 2 ounces (60ml) rye whiskey
 * 2 dashes Angostura bitter
 * 2 dashes orange bitter
 * 1 sugar cube or bar spoon of simple syrup
