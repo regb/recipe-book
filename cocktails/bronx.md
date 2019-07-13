@@ -13,6 +13,6 @@
 1. Mix gin, dry vermouth, sweet vermouth, and orange juice into a cocktail
 shaker. Add ice and shake.
 
-2. Strain into a fancy coupe glass.
+2. Strain into a fancy coupe glass. No ice.
 
 3. Drop one maraschino cherry into the drink for garnish.

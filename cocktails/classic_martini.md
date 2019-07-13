@@ -8,13 +8,13 @@
 
 ## Marche à suivre
 
-1. Mix gin, dry vermouth, and large ice cubes in a mixing glass. Stir.
+1. Mix gin, dry vermouth, and ice cubes in a mixing glass. Stir.
 
-2. Strain into a fancy circle glass.
+2. Strain into a fancy coupe, no ice.
 
 3. Add an olive or lemon peel for garnish.
 
 ## Remarques
 
 Classic martini is traditionally made with gin, not vodka. A modern version
-is to replace the gin by vodka.
+is to replace the gin with vodka.

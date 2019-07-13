@@ -10,6 +10,6 @@
 
 1. Mix whiskey, vermouth, and bitters. Add ice. Stir.
 
-2. Strain into a coupe.
+2. Strain into a coupe. No ice.
 
 3. Garnish with a black cherry.
