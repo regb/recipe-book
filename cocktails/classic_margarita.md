@@ -21,9 +21,9 @@
 ## Reg's Favourite
 
 * 2 ounces (60ml) tequila
-* 3/4 ounce (20ml) cointreau
+* 1 oz (30ml) cointreau
 * 1 oz (30ml) lime juice
-* 1/2 ounce (15ml) of agave nectar
+* 1/4 ounce (7ml) of agave nectar
 * salt on the rim
 * straight up in cocktail glass
 
@@ -31,3 +31,5 @@
 
 Skip the lime wheel/wedge garnish, it invites people to squeeze it into, and in
 theory the balance is already perfect (otherwise, change it!).
+
+Replace the Cointreau by blue Curaco and get the fancy Blue Margarita!

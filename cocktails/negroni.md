@@ -17,7 +17,7 @@
 
 ## Reg's Favourite
 
-* 1.5 ounce (45ml) Gin
+* 1 ounce (30ml) Gin
 * 1 ounce (30ml) Sweet Vermouth
 * 1 ounce (30ml) Campari
 * 1/2 oz (15ml) Cointreau
