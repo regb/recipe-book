@@ -26,10 +26,10 @@ Sauces
 Patisserie
 ----------
 
-* [Cake au chocolat](/cake_au_chocolat.md)
-* [Un autre cake au chocolat](/cake_au_chocolat2.md)
-* [Tourte aux carottes](/tourte_aux_carottes.md)
-* [Tresse](/tresse.md)
+* [Cake au chocolat](/baking/cake_au_chocolat.md)
+* [Un autre cake au chocolat](/baking/cake_au_chocolat2.md)
+* [Tourte aux carottes](/baking/tourte_aux_carottes.md)
+* [Tresse](/baking/tresse.md)
 
 Boissons
 --------
