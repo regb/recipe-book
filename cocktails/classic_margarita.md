@@ -15,7 +15,7 @@
 2. Prepare the glass with a half salt rim.
 3. Add some ice and shake. 
 4. Two acceptable options for serving:
-   * Into a margarita ice, straight up (no ice).
+   * Into a margarita glass, straight up (no ice).
    * In an old-fashioned glass, on the rocks.
 
 ## Reg's Favourite
@@ -33,3 +33,9 @@ Skip the lime wheel/wedge garnish, it invites people to squeeze it into, and in
 theory the balance is already perfect (otherwise, change it!).
 
 Replace the Cointreau by blue Curaco and get the fancy Blue Margarita!
+
+Agave nectar can be substitued by simple syrup. It can also be skipped,
+depending if you like it sweet or not.
+
+Make a Cadillac Margarita by floating some Grand Marnier after serving the
+glass (half an ounce or less)
