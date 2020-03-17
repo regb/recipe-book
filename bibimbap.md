@@ -52,7 +52,7 @@ Marche à suivre
 4. Commencer à cuire le riz.
 
 5. Rincer les shiitake mushrooms et les couper finement. Les cuire dans une
-   poele avec de l'huile végétale, assaisonée de sel et ail, pendant 2-3
+   poele avec de l'huile végétale, avec sauce soja et un peu de sucre, pendant 2-3
    minutes.
 
 6. Rincer et couper les carottes en batons très fins. Les cuire dans une poele
