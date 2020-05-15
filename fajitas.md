@@ -12,6 +12,7 @@ For 4.
 * Spice mix
    - Salt
    - 1 tsp. black pepper
+   - 1 tsp. brown sugar
    - 1.5 tsp. cumin
    - 1 Tblsp. coriander
    - 1 Tblsp. garlic powder
