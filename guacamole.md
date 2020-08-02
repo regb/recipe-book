@@ -4,24 +4,22 @@ Délicieuse sauce à base d'avocat.
 
 ## Ingrédients
 
-* 2 avocats, juste mûres
+* 3 avocats, juste mûres
+* 1 lime
+* 1/2 petit onion
+* Tomates sans les graines
+* 2 gousses d'ails
+* Corriandre coupée finement
 * 1/2 c.a.c de sel
-* 1 c.a.s de jus de lime
-* poivre
-
-### Optionels
-
-* Onion
-* Tomates
 
 ## Marche à suivre
 
-1. Ouvrir les avocats et extraire dans dans un bol. Ecraser et masher, mais
-   pas trop.
+1. Ouvrir les avocats et extraire dans dans un bol. Ajouter le jus de lime,
+   ecraser et masher, mais pas trop.
 
-2. Ajouter le jus de lime, le sel, et le poivre. Mélanger.
+2. Ajouter onions et tomates coupées finement.
 
-3. Ajouter onions et tomates coupées finement. Mélanger.
+3. Ajouter l'ail ecrasé, la corriandre coupée et le sel. Mélanger tout.
 
 ## Remarques
 
