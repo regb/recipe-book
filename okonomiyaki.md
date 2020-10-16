@@ -6,23 +6,21 @@ Delicious Japanese pancakes.
 
 Pour 1 pancake pour environ 1 personne.
 
-#### Base
+### Mélange
 
-* Huile végétale sans trop de goût (tournesol par exemple) 
-* Farine blanche (100 gr.) (all purpose flour) 
+* Farine blanche (80 gr.) (all purpose flour)
+* Fécule de pomme de terre (20 gr.)
 * Dashi en poudre (1 c.a.c)
-* Levure (5 gr.)
-* Sel (1/4 c.a.c)
-* Eau (200ml)
+* Eau (100ml)
 * 1 Oeuf
 
-#### Contenu (flexible, selon les goûts)
+### Contenu (flexible, selon les goûts)
 
 * Fines tranches de porc
 * Ognons verts (ognons en botte)
-* Cabbage (choux blanc)
+* Cabbage (choux blanc) (100gr)
 
-#### Toppings (flexible, selon les goûts)
+### Toppings (flexible, selon les goûts)
 
 * Takoyaki sauce
 * Mayonnaise (Kewpie)
@@ -31,10 +29,9 @@ Pour 1 pancake pour environ 1 personne.
 
 ## Marche à suivre
 
-1. Coupé le choux en petits morceaux. Couper les ognons.
-2. Préparer la pâte en versant l'eau dans la farine. Mélanger jusqu'à obtenir
-   un liquide blanc épais (mais liquide). Ajouter le dashi, le sel, et la
-   levure.
+1. Coupé le choux en petits morceaux. Couper les ognons (les feuilles).
+2. Préparer la pâte en versant l'eau dans la farine, le fécule, et le dashi en
+   poudre. . Mélanger jusqu'à obtenir un liquide blanc épais (mais liquide).
 3. Ajouter le choux coupé, les ognons, et l'oeuf dans le liquide et mélanger le
    tout.
 4. Chauffer une plaque avec de l'huile, puis y verser le tout en essayant de
