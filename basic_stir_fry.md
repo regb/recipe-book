@@ -9,7 +9,7 @@ Ingredients
 * Rice noodles
 * chicken, 200gr, thinly sliced
 * one broccoli, chopped
-* 2 garlic cloves
+* 2 garlic cloves, thinly sliced (en lamelle)
 * 2 eggs
 * Soy sauce
 * Salt and pepper
