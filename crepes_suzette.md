@@ -17,18 +17,19 @@ Ingredients
 
 How to
 ------
-
-1. Stainless steal pan on low heat and pour in sugar.
-2. Leave the sugar to melt slowly (few minutes) until it starts to (lightly) caramel.
-3. Add the butter and blend with sugar (use a fork).
-4. Add a squeeze of lemon juice then mix well.
-5. Add the orange zest, followed by the orange juice. raise to medium heat and leave to reduce for a couple minutes.
-6. After it reduced a bit, add the grand marnier and leave it to reduce more.
-6. Coat and fold each crepe in that juice one by one.
-7. Once all the crepes are coated, lay them in the pan without overlap, raise heat to high and pour cognac over the crepes.
-8. Catch the flame (from the stove or with a match) to flambe the crepes.
-9. Once the flambe is taking place shake the pan gently to further coat the crepes with the juices.
-10. When the flames goes out, serve.
+1. [Prepare fresh crepes](/crepes.md).
+2. Stainless steal pan on low heat and pour in sugar.
+3. Leave the sugar to melt slowly (few minutes) until it starts to (lightly) caramel.
+4. Add the butter and blend with sugar (use a fork).
+5. Add a squeeze of lemon juice then mix well.
+6. Add the orange zest, followed by the orange juice. raise to medium heat and leave to reduce for a couple minutes.
+7. After it reduced a bit, add the grand marnier and leave it to reduce more.
+7. Coat and fold each crepe in that juice one by one.
+8. Once all the crepes are coated, lay them in the pan without overlap, raise heat to high and pour cognac over the crepes.
+9. Catch the flame (from the stove or with a match) to flambe the crepes.
+10. Once the flambe is taking place shake the pan gently to further coat the crepes with the juices.
+12. When the flames stop, prepare the plates with 1-3 crepes, sprinkle some sugar on it and then cover with the remaining liquid in the pan.
+13. Serve.
 
 Remarks
 -------
