@@ -4,7 +4,7 @@ Easy Butter Chicken
 Ingredients
 -----------
 
-* 60ml butter
+* 60ml (60gr) butter
 * 1 onion, diced
 * 2 cloves garlic, chopped
 * 1 Tbls. ginger, chopped
