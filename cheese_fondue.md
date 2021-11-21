@@ -11,8 +11,8 @@ For 2.
 * cheese (400 gr.)
 * garlic (1 clove)
 * Dry white wine (150 ml)
-* 2 tea spoon of corn starch (maizena)
-* 2 tea spoon kirsch/schnaps
+* 2 table spoon of corn starch (maizena)
+* 2 table spoon kirsch/schnaps
 * bread cubes
 
 
