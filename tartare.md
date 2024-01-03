@@ -10,8 +10,8 @@ For two:
 
 * Ground beef (400 gr.)
 * Shallot (80 gr.)
-* Pickled cucumber, finely chopped (80 gr.)
-* Capers (Capres) (30 gr.)
+* Pickled cucumber, dried (remove as much vinegar as possible), finely chopped (80 gr.)
+* Capers (Capres), dried (remove as much vinegar as possible), (30 gr.)
 * egg yolg (2)
 * Ketchup (60 gr.)
 * tabasco (a few drops)
