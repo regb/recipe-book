@@ -8,7 +8,7 @@ Ingredients
 
 For two:
 
-* Ground beef (400 gr.), (if grounded through the machine, only one pass)
+* Ground beef (400 gr.), (if grounded through the machine, only one pass), (ideally rumsteak, steak is cheaper and work well too)
 * Shallot (80 gr.)
 * Pickled cucumber, dried (remove as much vinegar as possible), finely chopped (80 gr.)
 * Capers (Capres), dried (remove as much vinegar as possible), (30 gr.)
