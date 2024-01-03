@@ -17,7 +17,7 @@ For two:
 * tabasco (a few drops)
 * Mustard (40 gr.)
 * Pepper (3 gr.)
-* Salt (1 c.a.c)
+* Salt (to taste)
 * Whisky/Cognac/Vodka (30 gr.)
 * Oil (huile de colza) (10 gr.)
 * Worcestersauce (4 gr.)
